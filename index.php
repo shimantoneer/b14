@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.stonybrook.edu/");
+header("Location: http://thedoorcampaign.org/staff/");
 die();
 ?>
