@@ -1,4 +1,4 @@
 <?php
-header("Location: https://seekersnyc.org/");
+header("Location: https://www.thesweetpotatospiritcompany.com/");
 die();
 ?>
